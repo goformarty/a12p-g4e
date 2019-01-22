@@ -18,7 +18,7 @@ function binarySearch(array, value) {
             }
 
             // find the max occurance
-            while((arr[max+1]) === value) {
+            while ((arr[max + 1]) === value) {
                 max = max + 1;
             }
 
