@@ -1,0 +1,11 @@
+{
+  "name": "2019-01-22-searching",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goformarty",
+  "license": "ISC",
+  "description": ""
+}
